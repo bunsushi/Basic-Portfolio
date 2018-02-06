@@ -113,12 +113,6 @@ li a {
     color: #777777;
 }
 
-/* .nav::after {
-    content: "";
-    clear: both;
-    display: block;
-} */
-
 /* Styles for the main content section */
 .main-section {
     width: 588px;
